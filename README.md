@@ -1,2 +1,2 @@
-# PHP
-Projetos de PHP
+# Intranet em PHP
+Projeto em andamento de uma intranet na área têxtil. 
